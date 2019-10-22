@@ -1,15 +1,14 @@
 ---
 layout: post
-title: About Me
-#subtitle: Each post also has a subtitle
+title: Pacific Life
+subtitle: Data Science Intern
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
 tags: [test]
 comments: true
 ---
 
-I am a senior at UC Irvine, majoring in Data Science with a minor in Management, interested in data analytics and the journey to achieve insights. Working with unstructured data and machine learning models to generate insights for data-driven decisions excites me, and I particularly enjoy applying skills learned from internships, research, and the classroom to a real-life scenario with determined teams of people. 
-Actively looking for a Data Science/Software Engineering full-time or internship role. 
+PL content
 
 
 **Here is some bold text**
